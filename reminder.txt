@@ -1,0 +1,5 @@
+$ pip install numba==0.59.0rc1 llvmlite==0.42.0rc1
+This was used for installing 3.12+ numba compatibility
+
+This is a requirement for installing PySheds
+This was done on Python 3.12.1
